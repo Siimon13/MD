@@ -1,17 +1,18 @@
-* Acute Cholecystitis
+* Quiz 2
+** Acute Cholecystitis
   Due to the Gallbladder being blocked.
   Blockage can be caused by gallstones, this will lead to the gb being infected
   The cystic duct connects it to the ___, bile can't be drained.
-** Symptoms
+*** Symptoms
    Fever
    Nausea
    RUQ pain
-** Treatment
+*** Treatment
    Antibiotics
-* GERD(Acid Reflux)
+** GERD(Acid Reflux)
   LES doesn't close properly.
   Uclers, bleeding, narrowings, intestinal cells in espohagus(Causin cancer)
-** Treatment
+*** Treatment
    IV pain meds, sedative
    Catheter in bladder
    General anesth
@@ -21,4 +22,34 @@
 ** Hiatal Hernia
    Pull stomach back into place and tigthens Hernia ring to prevent it from happening
 
-* Acute Pancreatitis
+*** Acute Pancreatitis
+
+* 3-21
+** Esophageal Varices
+   Dilated veins in esophageal wall
+   Occur 2 to hepatic cirrhosis, common in EtOH abusers
+*** Portal hypertension
+    Hepatic scarring slows blood flow
+    Blood backs up in portal circulation 
+    Pressure rises
+    Vessels in portal circulation become distended
+** Aortic Aneurysm
+   Localized dilation due to weakening of aortic wall
+   Usually older patient with history of hypertension, atherosclerosis
+   May occur in younger patients secondary to
+   -Trauma
+   -Marfan's syndrome
+   Usually just above aortic bifurcation
+   May extend to one or both iliac arteries
+** Signs and Symptoms
+   Unilateral lower quadrant pain; low back or leg pain
+   May be described as terring or ripping
+   Pulstabile palpable mass usually above umbilicus
+   Diminished pulses in lower extermities
+   Unexplained syncope, often after BM
+   Ecidence of hypovelmic shock
+** Ectopic Pregnancy
+  Suspect in females of child-bearing age with:
+  Abdominal pain
+  Unexplained shock
+  Last normal menstrual period
