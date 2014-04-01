@@ -61,3 +61,24 @@
 *** Distde
 ** Misc
    Need oxygen to break down glucose to make ATP
+* 4-1
+** Major Determinants of Disease
+   Most heart disease is the result of atherosclerotic obstruction of the coronary artheries.
+   Congestive heart failure is mechanical failure of the heart to eject blood delievered to it.
+   Metabolic or autoimmune disease may cause heart muscle or valve damage.
+   High blood press accelerates atheorosclerosis and most other cardiac disease.
+   Cardiac valves are suspectibile to change.
+   Abnormal embryonic development of the heart produces significant cardiac anatomic malformations.
+   Abnormal heartbeat patterns (arrhythmias) can cause heart problems
+** Arrhythmias
+   Mechanically inefficient
+    -CO decreases
+   Potentially fatal
+*** Caused by
+    myocardialschemia
+    MI
+    electrolyte imbalance
+    stress
+    caffeine
+    drugs, especially stimulants
+    congenital defects in the electrical network.
