@@ -210,3 +210,5 @@
     Cells(SMC, marcophages and other WBC)
     ECM(collagen, elastin, and PGs)
     Lipid = Cholesterol(Intra/extracellular)
+* 4-24
+  Hypertension + Inflammation -> Primary Response -> permability to injured of diseased cells.
