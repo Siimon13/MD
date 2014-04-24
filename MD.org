@@ -63,7 +63,7 @@
    Need oxygen to break down glucose to make ATP
 * 4-1
 ** Major Determinants of Disease
-   Most heart disease is the result of atherosclerotic obstruction of the coronary artheries.
+   Most heart disease is the result of atherosclerotic obstruction of the coronary arteries.
    Congestive heart failure is mechanical failure of the heart to eject blood delievered to it.
    Metabolic or autoimmune disease may cause heart muscle or valve damage.
    High blood press accelerates atheorosclerosis and most other cardiac disease.
@@ -74,6 +74,9 @@
    Mechanically inefficient
     -CO decreases
    Potentially fatal
+   Normal rhythm is ~70
+   tachycardia is > 100
+   bradycardia is < 60
 *** Caused by
     myocardialschemia
     MI
@@ -82,3 +85,128 @@
     caffeine
     drugs, especially stimulants
     congenital defects in the electrical network.
+    
+* 4-3
+** Arrhythmias(cont.)
+*** Premature atrial contractions
+    extra atrial beats
+    common in healthy people
+    not harmful
+    due to
+      -stress
+      -lack of sleep
+      -caffeine
+      -some drugs
+*** Atrial flutter
+    rapid, regular atrial rhythm
+    ~300 beat/min
+*** Atrial fibrillation
+    rapid,irregular atrial rhythm
+    AV node fodes out
+** Heart Block
+   Atrial signal is delayed & cannot cross into the ventricle
+   Common cause is anatomic abnormalities
+   Can also be caused by digitalis
+*** 1st degree
+    delay of signal but no missed ventricular beats
+
+*** 2nd degree
+    delay long enough to cause missed ventricular beats
+    
+*** 3rd degree
+    total block of atrial signal
+    decreased CO
+    
+** Permature ventricular contractions
+   occur in healthy people
+   chest palipations & anxiety
+** Ventricular tachycardia
+   spontaneous, regular beating at > 120 beats/min, decreased CO
+** Ventricular fibrillation
+   extremely rapid & irregular
+   neglibile CO
+* 4-4
+** Congestive Heart Failure(CHF)
+   Heart unable to eject  volume of blood delivered to it
+   Endpoint for coronary atherosclerosis
+   HTN
+   Valve Disease
+   Cardiomyopathy
+   Congenital Cardiac malformations
+   Affects about 1% of Americans
+   1/2 dies within 5 years
+   Most common cause is cardiac muscle damage usually due to CAD
+   Less commonly due to valve defects
+   Heart tries to compensate for either of these by increasing HR & force of contraction & through cardiac muscle hypertrophy.
+   In L ventricular failure, low CO causes systemic hypoperfusion & pulmonary venous congestion. Causes back up in Left Atrium and then lungs
+   In R ventricular failure, low CO causes systemic venous congestion
+   The most common cause of R heart failure is L heart failure
+   The low CO of L heart failure reduces renal blood flow which stimulates the renin-angestural.
+** L Heart Failure
+   L ventricle dilates
+   Forward component
+   decreased oxygen
+** R Heart Failure
+   R ventricle dilates
+   Forward component
+   -decreased blood flow to lungs
+   Backward component
+   systemic venous congestion
+   congestion of liver,spleen
+   edema in feet
+   ascites
+   Found with pulmonary HTN(known as cor pulmonale)
+   
+** Coronary Artery Disease
+   CAD
+   Almost all from atherosclerosis narrowing or complete obstruction
+   Depending on the degree & character of obstruction
+   angina pectoris
+   MI 
+   sudden  cardiac death
+   chronic ischemic heart disease with CHF
+* 4-7
+** Angina Pectoris
+   
+** Myocardial Infarction
+   MI
+   Area of necrosis caused by ischemia
+   Most common cause of death in industrialized nations
+   Most initiated by plague disruption & accompanying thrombosis.
+   Size of infarct determined by vessel involved
+   Age of infarct determined by gross & microscopic findings.
+    -coagulative necrosis early
+    -development of granulation tissue
+    -Mature scar
+   What's the progression of high altitude sickness
+* 4-23
+** Arteriosclerosis
+   Widening or contractions of arteries.
+   A disease of intima
+   Atheromas, atheromatous/fibrofatty plaques, fibrous plaques
+   Narrowing of plagues, weakening of veins
+*** Three patterns
+**** Atherosclerosis
+     The dominant pattern of arteriosclerosis
+     Primarily affects the elastic(aorta, carotid,iliac) and large to medium sized muscular arteries(coronary,popliteal-behind the kneecap)
+**** Medial calcific sclerosis
+**** Arteriolosclerosis
+     small arteries and aterioles(hypertension and DM)
+     
+*** Non-Modifiable Risk Factors
+**** Age
+     Dominant Influence
+     Atherosclerosis begins in the youth, but does not precipitate organ injury later in life
+**** Gender
+     Men more prone than woman, but by age 60-70 about equal frequency. (Although that's changing)
+**** Family History
+     If past family members have heart disease, more prone to it
+     [[{{{http://circ.ahajournals.org/content/92/5/1355/F5.large.jpg}}}] [AHA Classification of Atherosclerosis]]
+*** Pathogen of Arteries
+    Refer to A
+**** Stage 1
+     Refer to B
+*** Major components of plaques
+    Cells(SMC, marcophages and other WBC)
+    ECM(collagen, elastin, and PGs)
+    Lipid = Cholesterol(Intra/extracellular)
