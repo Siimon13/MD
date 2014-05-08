@@ -212,3 +212,37 @@
     Lipid = Cholesterol(Intra/extracellular)
 * 4-24
   Hypertension + Inflammation -> Primary Response -> permability to injured of diseased cells.
+* 5-8
+** Hypertension
+   The major factors which help maintain blood pressure include the sympathetic nervous system and kidneys
+   Optimal healthy blood pressure is a systolic blood pressure of <120 mmHg and a diastolic blood pressure of <80
+   <120/80
+   Approximately one in four American adults has Hypertension
+   As many as 2.8 million children also have high blood pressure
+   When the normal regulatory mechanisms fail, Hypertension develops
+*** Factors Influencing the Development of Hypertension
+    High-normal blood pressure
+    Family history of Hypertension
+    African-American ancestry
+    Overweight
+    Excess Consumption of Sodium Chloride
+    Alcohol consumption
+    Exercise
+    Less active individuals are 30 - 50% more likely to develop Hypertension
+*** Treatment
+    Maintain a healthy weight, lose weight if Overweight
+    Be more physically active
+*** The DASH Diet
+    The Dietary Approaches to Stop Hypertension clinical trial(DASH)
+    Diet rich in fruits, vegetables, and low fat dairy foods can substantially lower blood pressure
+**** Control
+     Ca,Mg & K ~ 25% of US Diet
+     Macro-nutrients and fiber ~US average
+**** Fruits and Vegetables
+     Fruits and vegetables increased to 8.5 servings
+     K and Mg to 75%
+**** Combination:
+     Add 2-3 servings low-fat dairy to fruit & vegetable diet.
+**** Fruit and Vegetable Diet
+     Decrease in systolic and diastolic blood pressure in entire study group and in hypertension.
+
